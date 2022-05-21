@@ -1,0 +1,6 @@
+.idea
+Evernote_BDD/Locators/__pycache__/
+Evernote_BDD/PageObject/__pycache__/
+Evernote_BDD/Helper/__pycache__/
+Evernote_BDD/Features/geckodriver.log
+Evernote_BDD/geckodriver.log
