@@ -66,4 +66,5 @@ open job and click on configure
 Save job and Click on Build Now
 upon successful completion: compile output should look like below:
 
-![image](https://user-images.githubusercontent.com/105941762/169697043-4f16f990-fb70-40ce-8029-3f6652b42087.png)
+![image](https://user-images.githubusercontent.com/105941762/169700748-579dccba-5517-4299-a9ee-05466f74724c.png)
+
