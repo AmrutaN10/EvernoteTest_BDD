@@ -24,14 +24,12 @@ pip install -r requirement.txt
 cd Evernote
 behave Features
 ```
-Once all test cases are exeuted successfull you can check console output from command line and allure reports generated from Evernote_BDD/reports.
+Once all test cases are exeuted successfull you can check console output from command line and JSON reports generated from Evernote_BDD/reports.
 
 Upon succesful execution of test cases Console output should be similar to below:
 
 ![image](https://user-images.githubusercontent.com/105941762/169699959-28bfe7e2-af0d-465c-9b28-b9c9abc97e45.png)
 
-
-HTML generated test report should display similar to below:
 
 ## How to import Jenkins job to build and execute automation tests?
 ## Pre-requisites:
