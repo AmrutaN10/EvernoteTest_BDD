@@ -48,7 +48,7 @@ Upon succesful execution of test cases Console output should be similar to below
 Replace **http://server** with your jenkin server address in below command.
 Replace **username:password** with your jenkins username and password in below command.
 ```
-java -jar jenkins-cli.jar -s http://server -auth username:password create-job NewjobName_BDD < Evernote_JenkinsBuildJobExport.xml
+java -jar jenkins-cli.jar -s http://server -auth username:password create-job NewjobName_BDD < Evernote_BDD_JenkinsBuildJobExport.xml
 ```
 
 Once job is imported successfully.
