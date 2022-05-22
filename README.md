@@ -53,10 +53,11 @@ java -jar jenkins-cli.jar -s http://server -auth username:password create-job Ne
 
 Once job is imported successfully.
 Open Jenkins and verify the created Newjob
+
 ![image](https://user-images.githubusercontent.com/105941762/169702044-0365ca82-5e81-4b1d-a682-9d86e25ae720.png)
 
 
-open job and click on configure
+Open job and click on configure
 #### Naviagte to Source Code Management -> GIT -> Repositories -> Credentials
 #### select user jenkins credentials from dropdown
 #### Build -> Custom Python Builder -> Home
